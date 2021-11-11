@@ -1,0 +1,36 @@
+@charset "UTF-8";
+html {
+  background-color: silver;
+}
+
+.fondo {
+	  background-color: grey;
+}
+
+.fondo2{
+	background-color: Gainsboro; 
+}
+
+strong{
+	color: blue;
+}
+
+.subrayado {
+  text-decoration-line: underline;
+}
+
+address{
+	background-color: white;
+	text-align: right;
+}
+
+em{
+	color: blue;
+	font-weight: bold;
+	font-style: normal;
+}
+
+strong1{
+	color: black;
+	font-weight: bold;
+}
